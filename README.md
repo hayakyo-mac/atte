@@ -28,7 +28,15 @@ laravel/framework": "^8.75"
 ## テーブル設計
 <img width="878" alt="スクリーンショット 2024-12-02 13 14 18" src="https://github.com/user-attachments/assets/bd4dea27-2b78-4f31-88ae-f872eeb814e1">
 
+
+## テーブル設計
+
 ## ER図
 <img width="985" alt="スクリーンショット 2024-12-02 13 15 03" src="https://github.com/user-attachments/assets/e93ffdc8-442a-47a3-9aff-e2292a847fb3">
+
+## 環境構築
+
+## 追記
+未実装の部分は今後着手
 
 
